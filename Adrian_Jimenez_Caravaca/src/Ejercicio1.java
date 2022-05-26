@@ -1,7 +1,11 @@
 import java.util.Scanner;
 
 public class Ejercicio1 {
+<<<<<<< HEAD
 	//Comentario alumno 1(Adrián Jiménez)
+=======
+	//Cambio segunda persona(Sergio Mateo)
+>>>>>>> bb17d56372200f6b7b59a52544c2eab2617ceb07
 	
 	// Constantes
 	private static final int EDAD_MAXIMA = 100;
